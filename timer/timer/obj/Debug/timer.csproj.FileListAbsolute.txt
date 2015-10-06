@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\timer\timer\bin\Debug\timer.exe.config
+C:\Users\acer\Desktop\csharp\timer\timer\bin\Debug\timer.exe
+C:\Users\acer\Desktop\csharp\timer\timer\bin\Debug\timer.pdb
+C:\Users\acer\Desktop\csharp\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\csharp\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\acer\Desktop\csharp\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\timer\timer\obj\Debug\timer.exe
+C:\Users\acer\Desktop\csharp\timer\timer\obj\Debug\timer.pdb

@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\mayıntarlası\bin\Debug\mayıntarlası.exe.config
+C:\Users\acer\Desktop\csharp\mayıntarlası\bin\Debug\mayıntarlası.exe
+C:\Users\acer\Desktop\csharp\mayıntarlası\bin\Debug\mayıntarlası.pdb
+C:\Users\acer\Desktop\csharp\mayıntarlası\obj\Debug\mayıntarlası.Form1.resources
+C:\Users\acer\Desktop\csharp\mayıntarlası\obj\Debug\mayıntarlası.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\mayıntarlası\obj\Debug\mayıntarlası.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\mayıntarlası\obj\Debug\mayıntarlası.exe
+C:\Users\acer\Desktop\csharp\mayıntarlası\obj\Debug\mayıntarlası.pdb
+C:\Users\acer\Desktop\csharp\mayıntarlası\obj\Debug\mayıntarlası.csprojResolveAssemblyReference.cache

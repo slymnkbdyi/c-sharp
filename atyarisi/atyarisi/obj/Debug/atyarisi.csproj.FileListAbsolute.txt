@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\bin\Debug\atyarisi.exe.config
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\bin\Debug\atyarisi.exe
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\bin\Debug\atyarisi.pdb
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\obj\Debug\atyarisi.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\obj\Debug\atyarisi.Form1.resources
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\obj\Debug\atyarisi.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\obj\Debug\atyarisi.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\obj\Debug\atyarisi.exe
+C:\Users\acer\Desktop\csharp\atyarisi\atyarisi\obj\Debug\atyarisi.pdb

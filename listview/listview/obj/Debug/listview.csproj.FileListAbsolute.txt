@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\listview\listview\bin\Debug\listview.exe.config
+C:\Users\acer\Desktop\csharp\listview\listview\bin\Debug\listview.exe
+C:\Users\acer\Desktop\csharp\listview\listview\bin\Debug\listview.pdb
+C:\Users\acer\Desktop\csharp\listview\listview\obj\Debug\listview.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\csharp\listview\listview\obj\Debug\listview.Form1.resources
+C:\Users\acer\Desktop\csharp\listview\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\listview\listview\obj\Debug\listview.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\listview\listview\obj\Debug\listview.exe
+C:\Users\acer\Desktop\csharp\listview\listview\obj\Debug\listview.pdb

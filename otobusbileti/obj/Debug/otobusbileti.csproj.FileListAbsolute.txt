@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\otobusbileti\bin\Debug\otobusbileti.exe.config
+C:\Users\acer\Desktop\csharp\otobusbileti\bin\Debug\otobusbileti.exe
+C:\Users\acer\Desktop\csharp\otobusbileti\bin\Debug\otobusbileti.pdb
+C:\Users\acer\Desktop\csharp\otobusbileti\obj\Debug\otobusbileti.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\csharp\otobusbileti\obj\Debug\otobusbileti.Form1.resources
+C:\Users\acer\Desktop\csharp\otobusbileti\obj\Debug\otobusbileti.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\otobusbileti\obj\Debug\otobusbileti.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\otobusbileti\obj\Debug\otobusbileti.exe
+C:\Users\acer\Desktop\csharp\otobusbileti\obj\Debug\otobusbileti.pdb

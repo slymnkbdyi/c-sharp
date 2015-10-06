@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\bin\Debug\sayitopla.exe.config
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\bin\Debug\sayitopla.exe
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\bin\Debug\sayitopla.pdb
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\obj\Debug\sayitopla.Form1.resources
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\obj\Debug\sayitopla.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\obj\Debug\sayitopla.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\obj\Debug\sayitopla.exe
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\obj\Debug\sayitopla.pdb
+C:\Users\acer\Desktop\csharp\sayitopla\sayitopla\obj\Debug\sayitopla.csprojResolveAssemblyReference.cache

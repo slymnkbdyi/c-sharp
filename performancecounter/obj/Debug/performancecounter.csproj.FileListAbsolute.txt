@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\csharp\performancecounter\bin\Debug\performancecounter.exe.config
+C:\Users\acer\Desktop\csharp\performancecounter\bin\Debug\performancecounter.exe
+C:\Users\acer\Desktop\csharp\performancecounter\bin\Debug\performancecounter.pdb
+C:\Users\acer\Desktop\csharp\performancecounter\obj\Debug\performancecounter.Form1.resources
+C:\Users\acer\Desktop\csharp\performancecounter\obj\Debug\performancecounter.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\performancecounter\obj\Debug\performancecounter.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\performancecounter\obj\Debug\performancecounter.exe
+C:\Users\acer\Desktop\csharp\performancecounter\obj\Debug\performancecounter.pdb

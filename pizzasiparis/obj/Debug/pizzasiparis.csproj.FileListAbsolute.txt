@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\pizzasiparis\bin\Debug\pizzasiparis.exe.config
+C:\Users\acer\Desktop\csharp\pizzasiparis\bin\Debug\pizzasiparis.exe
+C:\Users\acer\Desktop\csharp\pizzasiparis\bin\Debug\pizzasiparis.pdb
+C:\Users\acer\Desktop\csharp\pizzasiparis\obj\Debug\pizzasiparis.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\csharp\pizzasiparis\obj\Debug\pizzasiparis.Form1.resources
+C:\Users\acer\Desktop\csharp\pizzasiparis\obj\Debug\pizzasiparis.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\pizzasiparis\obj\Debug\pizzasiparis.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\pizzasiparis\obj\Debug\pizzasiparis.exe
+C:\Users\acer\Desktop\csharp\pizzasiparis\obj\Debug\pizzasiparis.pdb

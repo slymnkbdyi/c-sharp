@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\bin\Debug\AracTalepFormu.exe.config
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\bin\Debug\AracTalepFormu.exe
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\bin\Debug\AracTalepFormu.pdb
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\obj\Debug\AracTalepFormu.Form1.resources
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\obj\Debug\AracTalepFormu.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\obj\Debug\AracTalepFormu.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\obj\Debug\AracTalepFormu.exe
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\obj\Debug\AracTalepFormu.pdb
+C:\Users\acer\Desktop\csharp\AracTalepFormu\AracTalepFormu\obj\Debug\AracTalepFormu.csprojResolveAssemblyReference.cache

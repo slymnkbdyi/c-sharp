@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\bin\Debug\dxballoyunu.exe.config
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\bin\Debug\dxballoyunu.exe
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\bin\Debug\dxballoyunu.pdb
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\obj\Debug\dxballoyunu.Form1.resources
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\obj\Debug\dxballoyunu.Properties.Resources.resources
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\obj\Debug\dxballoyunu.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\obj\Debug\dxballoyunu.exe
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\obj\Debug\dxballoyunu.pdb
+C:\Users\acer\Desktop\csharp\dxballoyunu\dxballoyunu\obj\Debug\dxballoyunu.csprojResolveAssemblyReference.cache
